@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffffsize=50&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Gustavo+Marcelino;Tenho+18+anos;Sou+de+Joinville,Sc;Seja+Bem+Vindo!;%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Marcelino;Tenho+18+anos;Sou+de+Joinville+-+SC)](https://git.io/typing-svg)
 
 
 
